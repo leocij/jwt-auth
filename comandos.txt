@@ -1,0 +1,10 @@
+
+## https://www.youtube.com/watch?v=2jqok-WgelI
+
+npm init -y
+
+npm i express mongoose dotenv @hapi/joi bcryptjs jsonwebtoken
+
+npm i nodemon -D
+
+npm install jsonwebtoken
